@@ -1,5 +1,5 @@
 <p align = "left">
-  <img src="https://github.com/Bassaleg-School/.github/blob/main/profile/digitech%20banner.png?raw=true" width="500">
+  <img src="./digitech banner.png" width="500">
 </p>
 
 Welcome to the official GitHub organisation of the Digital Technology department at Bassaleg School, Newport, South Wales.
