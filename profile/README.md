@@ -1,6 +1,12 @@
-# Bassaleg School Digital Technology Department
+<p align = "left">
+  <img src="https://github.com/Bassaleg-School/.github/blob/main/profile/digitech%20banner.png?raw=true" width="500">
+</p>
 
 Welcome to the official GitHub organisation of the Digital Technology department at Bassaleg School, Newport, South Wales.
+
+## Purpose of This GitHub Organisation
+
+This GitHub organisation has been established primarily to facilitate our use of GitHub Classroom in teching python programming for GCSE and A-Level Computer Science.
 
 ## About Bassaleg School
 
@@ -8,12 +14,4 @@ Established around 1880, Bassaleg School is a comprehensive secondary school cat
 
 ## Digital Technology at Bassaleg
 
-The Digital Technology department is dedicated to providing students with the skills and knowledge necessary to navigate and contribute to the digital world. Our curriculum encompasses Computer Science and Digital Technology, aiming to foster critical thinking, problem-solving abilities, and technological proficiency.
-
-## Purpose of This GitHub Organisation
-
-This GitHub organisation has been established primarily to facilitate our use of GitHub Classroom. By leveraging GitHub Classroom, we aim to streamline the process of managing coding assignments, fostering collaboration, and providing real-world experience with version control systems. This platform allows us to efficiently distribute, collect, and review student work, enhancing the overall learning experience.
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/f679effd-0fcd-4c4a-9403-88c4d80c0197" alt="Bassaleg School Logo" width="200">
-</p>
+The Digital Technology department is dedicated to providing students with the skills and knowledge necessary to navigate and contribute to the digital world. Our curriculum encompasses Computer Science and Digital Technology and ICT with Content Creation aiming to foster critical thinking, problem-solving abilities, and technological proficiency.
