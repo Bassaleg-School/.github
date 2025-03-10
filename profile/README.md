@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/f679effd-0fcd-4c4a-9403-88c4d80c0197" alt="Bassaleg School Logo" width="200">
-</p>
-
 # Bassaleg School Digital Technology Department
 
 Welcome to the official GitHub organisation of the Digital Technology department at Bassaleg School, Newport, South Wales.
@@ -18,6 +14,6 @@ The Digital Technology department is dedicated to providing students with the sk
 
 This GitHub organisation has been established primarily to facilitate our use of GitHub Classroom. By leveraging GitHub Classroom, we aim to streamline the process of managing coding assignments, fostering collaboration, and providing real-world experience with version control systems. This platform allows us to efficiently distribute, collect, and review student work, enhancing the overall learning experience.
 
-## Get Involved
-
-Students and educators are encouraged to explore our repositories, contribute to projects, and engage with the broader community. Together, we can build a vibrant learning environment that embraces the challenges and opportunities of the digital age.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f679effd-0fcd-4c4a-9403-88c4d80c0197" alt="Bassaleg School Logo" width="200">
+</p>
